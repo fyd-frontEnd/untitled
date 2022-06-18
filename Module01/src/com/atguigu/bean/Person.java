@@ -8,7 +8,7 @@ public class Person {
     /**
     * 姓名
     */
-    private String NAME;
+    protected String NAME;
 
 
     public void eat (){

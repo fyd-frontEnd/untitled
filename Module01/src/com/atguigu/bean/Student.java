@@ -5,4 +5,10 @@ package com.atguigu.bean;
  * @date 2022/6/15 - 10:12
  */
 public class Student extends Person {
+    /**
+    * 年级
+    */
+    private int GRADE;
+
+
 }
